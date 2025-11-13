@@ -21,7 +21,6 @@ Small Streamlit demo project that converts long text into concise summaries usin
 ## Quick setup (PowerShell)
 1. Create & activate a virtual environment:
 ```powershell
-cd "D:\Udemy Gen AI\Langchain Projects\7-Text Summarization"
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
