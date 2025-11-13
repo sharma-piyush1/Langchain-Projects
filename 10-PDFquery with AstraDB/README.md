@@ -41,7 +41,6 @@ Do not commit .env to source control.
 ## Setup (PowerShell)
 1. Create & activate a virtual environment:
 ```powershell
-cd "D:\Udemy Gen AI\Langchain Projects\10-PDFquery with AstraDB"
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
