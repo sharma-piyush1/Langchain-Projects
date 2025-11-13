@@ -31,7 +31,6 @@ python -m venv .venv
 
 2. Install dependencies per project:
 
-cd "D:\Udemy Gen AI\Langchain Projects\<project-folder>"
 pip install -r [requirements.txt](http://_vscodecontentref_/0)
 
 Environment variables
