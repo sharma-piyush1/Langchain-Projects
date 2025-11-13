@@ -32,7 +32,6 @@ Do not commit .env to source control.
 ## Quick setup (PowerShell)
 1. Create & activate venv:
 ```powershell
-cd "D:\Udemy Gen AI\Langchain Projects\9-Hugginface and Langchain"
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
