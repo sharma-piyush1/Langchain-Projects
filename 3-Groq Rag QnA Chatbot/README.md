@@ -28,7 +28,7 @@ Lightweight Streamlit app that implements a Retrieval-Augmented Generation (RAG)
 
 1. Open PowerShell and create/activate a virtual environment:
 ```powershell
-cd "D:\Udemy Gen AI\Langchain Projects\3-Groq Rag QnA Chatbot"
+
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 
