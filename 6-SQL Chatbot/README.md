@@ -23,7 +23,6 @@ Streamlit demo that connects a language model to a SQL database for querying and
 ## Setup (PowerShell)
 1. Create & activate venv:
 ```powershell
-cd "D:\Udemy Gen AI\Langchain Projects\6-SQL Chatbot"
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
