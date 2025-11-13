@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / optimized
+*.pyo
+*.pyd
+
+# Virtual environments
+venvlc/
+ENV/
+env/
+git/
+.venv/
+.ENV/
+.git/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter
+.ipynb_checkpoints
+
+# dotenv / secrets
+.env
+.env.*
+secrets.json
+credentials.json
+openai_api_key.txt
+openai_key.txt
+apikey.txt
+
+# Streamlit
+.streamlit/
+
+# Langchain / Langsmith caches & logs
+.langchain/
+langchain.db
+langchain_cache/
+langchain_logs/
+*.lc_cache
+
+# Editor and IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and DBs
+*.log
+*.sqlite3
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Misc
+node_modules/
+dist/
+coverage/
+output/
