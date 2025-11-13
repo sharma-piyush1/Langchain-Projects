@@ -22,7 +22,6 @@ Streamlit demo that uses a language model to solve and explain mathematical prob
 ## Setup (PowerShell)
 1. Create & activate a virtual environment:
 ```powershell
-cd "D:\Udemy Gen AI\Langchain Projects\8-MathGPT"
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
