@@ -19,7 +19,6 @@ Create a `requirements.txt` with the packages used in your environment.
 
 1. Install dependencies
    ```powershell
-   cd "d:\Udemy Gen AI\Langchain Projects\2-Ollama Chatbot"
    pip install -r requirements.txt
 
 2. (Optional) Create a .env in the folder with tracking key(s) if you use LangSmith:
