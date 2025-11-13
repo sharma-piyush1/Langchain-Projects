@@ -27,7 +27,6 @@ Lightweight Streamlit demo that combines a search/indexing layer with a generati
 
 1. Open PowerShell and create/activate a venv:
 ```powershell
-cd "D:\Udemy Gen AI\Langchain Projects\5-Search Engine Chatbot"
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
