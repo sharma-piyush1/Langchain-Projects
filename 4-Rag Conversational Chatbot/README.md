@@ -26,7 +26,7 @@ Streamlit demo implementing a conversational Retrieval-Augmented Generation (RAG
 ## Quick setup
 1. Open PowerShell and create & activate a venv:
 ```powershell
-cd "D:\Udemy Gen AI\Langchain Projects\4-Rag Conversational Chatbot"
+
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 
