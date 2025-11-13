@@ -25,7 +25,6 @@ Each subfolder is a standalone demo. Brief summary:
 ## Quick setup (recommended, PowerShell)
 1. Create a repo-level virtual environment (optional per-project venvs are fine):
 ```powershell
-cd "D:\Udemy Gen AI\Langchain Projects"
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 
